@@ -8,7 +8,7 @@
     <td align="center" width="170">
       <img src="./assets/profile.jpg" width="120" alt="홍길동 프로필 사진">
       <br/>
-      <sub><strong>Product Manager · PMO</strong></sub>
+      <sub><strong> [나의 직무] </strong></sub>
     </td>
     <td>
 
