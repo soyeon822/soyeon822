@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D4FF65&height=90&section=header)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=42&duration=3200&pause=900&color=D9A400&width=1000&height=100&lines=Welcome+to+Kim+So+Yeon's+GitHub!)
-김소연 | Kim So Yeon
+
+## 김소연 | Kim So Yeon
+
 <table>
   <tr>
     <td align="center" width="170">
@@ -29,26 +32,35 @@
     </td>
   </tr>
 </table>
+
 ---
-Projects
-프로젝트	설명	기술 스택
-통합정보시스템 유지관리 (PMO)	철도공단 통합정보시스템의 다년차 유지관리 사업에서 23개월간 일정, 인력, SLA 보고 및 보안 산출물을 관리한 공공 SI PMO 업무	Excel, Jira, Confluence, MS Office
-ALLBLU - 사용자 리서치	설문 104명 및 사용자 테스트 결과를 분석하고, 웹툰, 애니 감상 기록과 추천 경험의 문제를 정의한 리서치	Google Forms, GA4, Confluence, Looker Studio
-ALLBLU - MVP 기능 기획	감상 기록 기반 추천 기능 '올블픽'의 사용자 흐름과 화면을 설계하고 PRD, 와이어프레임 및 기능명세를 정리한 실서비스 팀 프로젝트	Figma, Jira, Confluence, Walla
-ALLBLU - 서비스 검증 및 운영 개선	GA4와 사용자 테스트로 이탈 구간을 확인하고, 온보딩, 픽카드 개선 및 작품 정보 검수 자동화 프로세스를 제안, 적용한 프로젝트	GA4, Google Sheets, Slack, Figma
-오늘도 취미 - 문제 정의	사용자 리서치와 자체 설문(N=32)을 기반으로 혼자 시작한 취미를 지속하기 어려운 문제를 구체화하고 핵심 가설을 설정한 MVP 기획	Google Forms, FigJam, Notion, Google Slides
-오늘도 취미 - MVP 설계	취미방, 소통/Q&A 게시판, 활동 기록을 핵심 기능으로 정의하고, 와이어프레임 및 검증, 확장 로드맵을 설계한 온라인 취미 동행 앱 MVP	Figma, FigJam, Notion, Google Slides
-배민클럽 개선 - UX 역기획	기존 멤버십 가입 화면과 설문 결과를 분석해 혜택 전달의 문제를 정의하고, 개인화 절감액 중심의 개선 방향을 제시한 역기획	Figma, Notion, Canva, Slack
-배민클럽 개선 - A/B 검증 설계	개인화된 배달비 절감액을 홈 카드에 노출하는 와이어프레임을 기획하고, 가입 전환율을 지표로 한 A/B 테스트 방안을 설계한 프로젝트	Figma, Notion, Google Slides, Canva
+## Projects
+
+| 프로젝트 | 설명 | 기술 스택 |
+| --- | --- | --- |
+| [통합정보시스템 유지관리 (PMO)](https://github.com/USERNAME/PMO-REPOSITORY) | 철도공단 통합정보시스템의 다년차 유지관리 사업에서 23개월간 일정, 인력, SLA 보고 및 보안 산출물을 관리한 공공 SI PMO 업무 | Excel, Jira, Confluence, MS Office |
+| [ALLBLU - 사용자 리서치](https://github.com/USERNAME/ALLBLU-REPOSITORY) | 설문 104명 및 사용자 테스트 결과를 분석하고, 웹툰, 애니 감상 기록과 추천 경험의 문제를 정의한 리서치 | Google Forms, GA4, Confluence, Looker Studio |
+| [ALLBLU - MVP 기능 기획](https://github.com/USERNAME/ALLBLU-REPOSITORY) | 감상 기록 기반 추천 기능 '올블픽'의 사용자 흐름과 화면을 설계하고 PRD, 와이어프레임 및 기능명세를 정리한 실서비스 팀 프로젝트 | Figma, Jira, Confluence, Walla |
+| [ALLBLU - 서비스 검증 및 운영 개선](https://github.com/USERNAME/ALLBLU-REPOSITORY) | GA4와 사용자 테스트로 이탈 구간을 확인하고, 온보딩, 픽카드 개선 및 작품 정보 검수 자동화 프로세스를 제안, 적용한 프로젝트 | GA4, Google Sheets, Slack, Figma |
+| [오늘도 취미 - 문제 정의](https://github.com/USERNAME/TODAY-HOBBY-REPOSITORY) | 사용자 리서치와 자체 설문(N=32)을 기반으로 혼자 시작한 취미를 지속하기 어려운 문제를 구체화하고 핵심 가설을 설정한 MVP 기획 | Google Forms, FigJam, Notion, Google Slides |
+| [오늘도 취미 - MVP 설계](https://github.com/USERNAME/TODAY-HOBBY-REPOSITORY) | 취미방, 소통/Q&A 게시판, 활동 기록을 핵심 기능으로 정의하고, 와이어프레임 및 검증, 확장 로드맵을 설계한 온라인 취미 동행 앱 MVP | Figma, FigJam, Notion, Google Slides |
+| [배민클럽 개선 - UX 역기획](https://github.com/USERNAME/BAEMINCLUB-REPOSITORY) | 기존 멤버십 가입 화면과 설문 결과를 분석해 혜택 전달의 문제를 정의하고, 개인화 절감액 중심의 개선 방향을 제시한 역기획 | Figma, Notion, Canva, Slack |
+| [배민클럽 개선 - A/B 검증 설계](https://github.com/USERNAME/BAEMINCLUB-REPOSITORY) | 개인화된 배달비 절감액을 홈 카드에 노출하는 와이어프레임을 기획하고, 가입 전환율을 지표로 한 A/B 테스트 방안을 설계한 프로젝트 | Figma, Notion, Google Slides, Canva |
+
 ---
-Focus
-분야	다루는 내용	관련 프로젝트
-Project Operations (PMO)	다차수 사업 일정, 인력 투입 및 SLA 지표, 보고, 산출물 관리, 변경 사항과 보안 점검 대응	통합정보시스템 유지관리
-User Research & Data	사용자 설문, UT, GA4를 활용한 문제 정의, 행동 데이터 분석 및 이탈 구간 파악	ALLBLU, 오늘도 취미, 배민클럽 개선
-Product Planning & UX	가설 및 MVP 범위 정의, PRD, 와이어프레임, 기능명세 작성, 사용자 흐름 설계	ALLBLU, 오늘도 취미, 배민클럽 개선
-Validation & Improvement	핵심 지표 설정, UT, A/B 테스트 검증안 설계, 운영 프로세스 자동화 및 개선	ALLBLU, 오늘도 취미, 배민클럽 개선
+
+## Focus
+
+| 분야 | 다루는 내용 | 관련 프로젝트 |
+| --- | --- | --- |
+| Project Operations (PMO) | 다차수 사업 일정, 인력 투입 및 SLA 지표, 보고, 산출물 관리, 변경 사항과 보안 점검 대응 | 통합정보시스템 유지관리 |
+| User Research & Data | 사용자 설문, UT, GA4를 활용한 문제 정의, 행동 데이터 분석 및 이탈 구간 파악 | ALLBLU, 오늘도 취미, 배민클럽 개선 |
+| Product Planning & UX | 가설 및 MVP 범위 정의, PRD, 와이어프레임, 기능명세 작성, 사용자 흐름 설계 | ALLBLU, 오늘도 취미, 배민클럽 개선 |
+| Validation & Improvement | 핵심 지표 설정, UT, A/B 테스트 검증안 설계, 운영 프로세스 자동화 및 개선 | ALLBLU, 오늘도 취미, 배민클럽 개선 |
+
 ---
-Portfolio
+## Portfolio
+
 <table>
   <tr>
     <td width="220">
@@ -62,8 +74,11 @@ Portfolio
     </td>
   </tr>
 </table>
+
 ---
-Tech Stacks
+
+## Tech Stacks
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -102,8 +117,11 @@ Tech Stacks
     </td>
   </tr>
 </table>
+
 ---
-Contact
+
+## Contact
+
 <table>
   <tr>
     <td><a href="mailto:dnjsejdn98@naver.com">Email</a></td>
@@ -118,4 +136,5 @@ Contact
     <td>[포트폴리오 PDF 또는 사이트 URL 입력]</td>
   </tr>
 </table>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=D4FF65&height=90&section=footer)
