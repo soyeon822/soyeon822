@@ -38,7 +38,7 @@
 
 | 프로젝트명 | 주요 내용 | 사용 도구 |
 |---|---|---|
-| **통합정보시스템 유지관리 (PMO)** `실무 프로젝트` | 철도공단 통합정보시스템 유지관리 사업에서 일정, 인력, SLA 지표 및 보안 산출물을 관리하고 고객사 보고와 개발팀 간 협업을 지원한 공공 SI 프로젝트 | Excel, Jira, Confluence, MS Office |
+| **[통합정보시스템 유지관리](https://app.notion.com/p/2024-25-3b26aaae905a8056b54ccb265f5cd78a)** `실무 프로젝트/PMO` | 철도공단 통합정보시스템 유지관리 사업에서 일정, 인력, SLA 지표 및 보안 산출물을 관리하고 고객사 보고와 개발팀 간 협업을 지원한 공공 SI 프로젝트 | Excel, Jira, Confluence, MS Office |
 | **[ALLBLU](https://project-allblu.vercel.app/)** `팀 프로젝트` | 웹툰, 애니메이션 감상 기록 및 추천 플랫폼. 사용자 리서치 기반 문제 정의부터 MVP 기획, 화면 설계, 개발 협업, 실서비스 출시 및 GA4, UT 기반 개선까지 수행 | Figma, GA4, Jira, Confluence, Walla, Slack |
 | **[오늘도 취미](https://teamsparta.notion.site/3762dc3ef51480778172ff99a96d99be)** `팀 프로젝트` | 창작 취미 지속을 돕는 온라인 동행 플랫폼. 사용자 리서치와 가설 수립을 바탕으로 취미방, Q&A, 활동 기록 중심의 MVP 기능과 와이어프레임, 검증 계획 설계 | Figma, FigJam, Google Forms, Notion |
 | **[배민클럽 온보딩 개선](https://teamsparta.notion.site/6-3502dc3ef5148000b52ceee7a11c5924)** `팀 프로젝트` | 멤버십 혜택 전달 문제를 분석하고 개인화된 예상 절감액 중심의 온보딩 개선안을 제안. 사용자 리서치, PRD 작성, 와이어프레임 제작 및 A/B 테스트 설계 | Figma, Notion, Canva, Google Slides |
