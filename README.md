@@ -34,21 +34,23 @@
 </table>
 
 ---
-## Projects
+## 🚀 Projects
 
-**[📁 프로젝트별 상세 Case Study 보기](./projects/README.md)**
+| 프로젝트명 | 주요 내용 | 사용 도구 |
+|---|---|---|
+| **통합정보시스템 유지관리 (PMO)** `실무 프로젝트` | 철도공단 통합정보시스템 유지관리 사업에서 일정, 인력, SLA 지표 및 보안 산출물을 관리하고 고객사 보고와 개발팀 간 협업을 지원한 공공 SI 프로젝트 | Excel, Jira, Confluence, MS Office |
+| **[ALLBLU](https://project-allblu.vercel.app/)** `팀 프로젝트` | 웹툰, 애니메이션 감상 기록 및 추천 플랫폼. 사용자 리서치 기반 문제 정의부터 MVP 기획, 화면 설계, 개발 협업, 실서비스 출시 및 GA4, UT 기반 개선까지 수행 | Figma, GA4, Jira, Confluence, Walla, Slack |
+| **[오늘도 취미](https://teamsparta.notion.site/3762dc3ef51480778172ff99a96d99be)** `팀 프로젝트` | 창작 취미 지속을 돕는 온라인 동행 플랫폼. 사용자 리서치와 가설 수립을 바탕으로 취미방, Q&A, 활동 기록 중심의 MVP 기능과 와이어프레임, 검증 계획 설계 | Figma, FigJam, Google Forms, Notion |
+| **[배민클럽 온보딩 개선](https://teamsparta.notion.site/6-3502dc3ef5148000b52ceee7a11c5924)** `팀 프로젝트` | 멤버십 혜택 전달 문제를 분석하고 개인화된 예상 절감액 중심의 온보딩 개선안을 제안. 사용자 리서치, PRD 작성, 와이어프레임 제작 및 A/B 테스트 설계 | Figma, Notion, Canva, Google Slides |
 
+### 📁 프로젝트별 상세 기획 문서
 
-| 프로젝트 | 설명 | 기술 스택 |
-| --- | --- | --- |
-| [통합정보시스템 유지관리 (PMO)](https://github.com/soyeon822/soyeon822/blob/main/projects/public-si-pmo.md) | 철도공단 통합정보시스템의 다년차 유지관리 사업에서 23개월간 일정, 인력, SLA 보고 및 보안 산출물을 관리한 공공 SI PMO 업무 | Excel, Jira, Confluence, MS Office |
-| [ALLBLU - 사용자 리서치](https://github.com/soyeon822/soyeon822/blob/main/projects/allblu.md) | 설문 104명 및 사용자 테스트 결과를 분석하고, 웹툰, 애니 감상 기록과 추천 경험의 문제를 정의한 리서치 | Google Forms, GA4, Confluence, Looker Studio |
-| [ALLBLU - MVP 기능 기획](https://github.com/soyeon822/soyeon822/blob/main/projects/allblu.md) | 감상 기록 기반 추천 기능 '올블픽'의 사용자 흐름과 화면을 설계하고 PRD, 와이어프레임 및 기능명세를 정리한 실서비스 팀 프로젝트 | Figma, Jira, Confluence, Walla |
-| [ALLBLU - 서비스 검증 및 운영 개선](https://github.com/soyeon822/soyeon822/blob/main/projects/allblu.md) | GA4와 사용자 테스트로 이탈 구간을 확인하고, 온보딩, 픽카드 개선 및 작품 정보 검수 자동화 프로세스를 제안, 적용한 프로젝트 | GA4, Google Sheets, Slack, Figma |
-| [오늘도 취미 - 문제 정의](https://github.com/soyeon822/soyeon822/blob/main/projects/today-hobby.md) | 사용자 리서치와 자체 설문(N=32)을 기반으로 혼자 시작한 취미를 지속하기 어려운 문제를 구체화하고 핵심 가설을 설정한 MVP 기획 | Google Forms, FigJam, Notion, Google Slides |
-| [오늘도 취미 - MVP 설계](https://github.com/soyeon822/soyeon822/blob/main/projects/today-hobby.md) | 취미방, 소통/Q&A 게시판, 활동 기록을 핵심 기능으로 정의하고, 와이어프레임 및 검증, 확장 로드맵을 설계한 온라인 취미 동행 앱 MVP | Figma, FigJam, Notion, Google Slides |
-| [배민클럽 개선 - UX 역기획](https://github.com/soyeon822/soyeon822/blob/main/projects/baemin-club.md) | 기존 멤버십 가입 화면과 설문 결과를 분석해 혜택 전달의 문제를 정의하고, 개인화 절감액 중심의 개선 방향을 제시한 역기획 | Figma, Notion, Canva, Slack |
-| [배민클럽 개선 - A/B 검증 설계](https://github.com/soyeon822/soyeon822/blob/main/projects/baemin-club.md) | 개인화된 배달비 절감액을 홈 카드에 노출하는 와이어프레임을 기획하고, 가입 전환율을 지표로 한 A/B 테스트 방안을 설계한 프로젝트 | Figma, Notion, Google Slides, Canva |
+| 프로젝트 | 상세 문서 | 문서에서 확인할 수 있는 내용 |
+|---|---|---|
+| 통합정보시스템 유지관리 (PMO) | [GitHub Case Study](./projects/public-si-pmo.md) | 담당 업무, 운영 프로세스, 성과 및 회고 |
+| ALLBLU | [GitHub Case Study](./projects/allblu.md) | 사용자 리서치, MVP 기획, UT 및 GA4 개선 과정 |
+| 오늘도 취미 | [GitHub Case Study](./projects/today-hobby.md) | 문제 정의, 핵심 가설, MVP 기능 및 검증 계획 |
+| 배민클럽 온보딩 개선 | [GitHub Case Study](./projects/baemin-club.md) | 기존 UX 분석, 개인화 혜택 개선안 및 A/B 테스트 설계 |
 
 ---
 
@@ -67,13 +69,13 @@
 <table>
   <tr>
     <td width="220">
-      <a href="https://app.notion.com/p/_Portfolio-PM-_-1-3b96aaae905a80c7a2beec020ef9af8a">
+      <a href="[[(저용량) [최종본] 포트폴리오 2차 최종본.pdf](https://github.com/user-attachments/files/33696396/2.pdf)]">
         <img src="https://img.shields.io/badge/Portfolio%20PDF-D4FF65?style=for-the-badge&logo=githubpages&logoColor=black">
       </a>
     </td>
     <td>
       공공 SI PMO 경험과 ALLBLU, 오늘도 취미, 배민클럽 개선 프로젝트의 문제 정의, 실행 과정, 검증 결과를 정리했습니다.<br/>
-      <a href="https://app.notion.com/p/_Portfolio-PM-_-1-3b96aaae905a80c7a2beec020ef9af8a">PM 포트폴리오 (Notion)</a>
+      <a href="[[(저용량) [최종본] 포트폴리오 2차 최종본.pdf](https://github.com/user-attachments/files/33696401/2.pdf)]">[https://soyeon822.github.io/portfolio_1/]</a>
     </td>
   </tr>
 </table>
@@ -131,12 +133,12 @@
     <td>dnjsejdn98@naver.com</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/soyeon822">GitHub</a></td>
+    <td><a href="https://github.com/USERNAME">GitHub</a></td>
     <td>github.com/USERNAME</td>
   </tr>
   <tr>
-    <td><a href="https://app.notion.com/p/_Portfolio-PM-_-1-3b96aaae905a80c7a2beec020ef9af8a">Portfolio</a></td>
-    <td>https://app.notion.com/p/_Portfolio-PM-_-1-3b96aaae905a80c7a2beec020ef9af8a</td>
+    <td><a href="[포트폴리오 PDF 또는 사이트 URL 입력]">Portfolio</a></td>
+    <td>[포트폴리오 PDF 또는 사이트 URL 입력]</td>
   </tr>
 </table>
 
