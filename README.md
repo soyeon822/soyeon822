@@ -1,5 +1,3 @@
-[(저용량) [최종본] 포트폴리오 2차 최종본.pdf](https://github.com/user-attachments/files/33696393/2.pdf)![header](https://capsule-render.vercel.app/api?type=waving&color=D4FF65&height=90&section=header)
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=42&duration=3200&pause=900&color=D9A400&width=1000&height=100&lines=Welcome+to+Kim+So+Yeon's+GitHub!)
 
 ## 김소연 | Kim So Yeon
