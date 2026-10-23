@@ -123,13 +123,12 @@
     <td>dnjsejdn98@naver.com</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/USERNAME">GitHub</a></td>
-    <td>github.com/USERNAME</td>
-  </tr>
-  <tr>
-    <td><a href="[https://soyeon822.github.io/portfolio_1]">Portfolio</a></td>
-    <td>[https://soyeon822.github.io/portfolio_1]</td>
-  </tr>
+    <td>
+      <a href="https://soyeon822.github.io/portfolio_1">
+        <img src="https://img.shields.io/badge/Portfolio%20PDF-D4FF65?style=for-the-badge&logo=githubpages&logoColor=black">
+      </a>
+    </td>
+    <td>https://soyeon822.github.io/portfolio_1</td>
 </table>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=D4FF65&height=90&section=footer)
