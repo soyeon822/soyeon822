@@ -59,13 +59,13 @@
 <table>
   <tr>
     <td width="220">
-      <a href="[[(저용량) [최종본] 포트폴리오 2차 최종본.pdf](https://github.com/user-attachments/files/33696396/2.pdf)]">
+      <a href="https://soyeon822.github.io/portfolio_1">
         <img src="https://img.shields.io/badge/Portfolio%20PDF-D4FF65?style=for-the-badge&logo=githubpages&logoColor=black">
       </a>
     </td>
     <td>
-      공공 SI PMO 경험과 ALLBLU, 오늘도 취미, 배민클럽 개선 프로젝트의 문제 정의, 실행 과정, 검증 결과를 정리했습니다.<br/>
-      <a href="[[(저용량) [최종본] 포트폴리오 2차 최종본.pdf](https://github.com/user-attachments/files/33696401/2.pdf)]">[https://soyeon822.github.io/portfolio_1/]</a>
+      문제 정의, 기획 및 실행 과정, 검증 결과를 정리한 개인 포트폴리오입니다.<br/>
+      <a href="https://soyeon822.github.io/portfolio_1">https://soyeon822.github.io/portfolio_1/</a>
     </td>
   </tr>
 </table>
