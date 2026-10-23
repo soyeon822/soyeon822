@@ -127,8 +127,8 @@
     <td>github.com/USERNAME</td>
   </tr>
   <tr>
-    <td><a href="[포트폴리오 PDF 또는 사이트 URL 입력]">Portfolio</a></td>
-    <td>[포트폴리오 PDF 또는 사이트 URL 입력]</td>
+    <td><a href="[https://soyeon822.github.io/portfolio_1]">Portfolio</a></td>
+    <td>[https://soyeon822.github.io/portfolio_1]</td>
   </tr>
 </table>
 
